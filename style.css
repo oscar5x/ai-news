@@ -32,3 +32,5 @@ button:hover { background: #eef2f6; }
 .msg { margin-top: 10px; color: #0969da; font-weight: 600; }
 .footer { padding: 28px 0 40px; color: #6e7781; text-align: center; }
 pre { background: #0b1220; color: #e6edf3; padding: 10px 12px; border-radius: 10px; overflow:auto; }
+body { text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+p { text-align: justify; }
